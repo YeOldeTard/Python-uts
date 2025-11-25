@@ -8,6 +8,6 @@ menambahkan 2 fitur pada progam
 untuk fitur pertama : converte video ke ascii 
 fitur ini memuingkinkan kita untuk membuat sebuah ascii animated art hanya dengan input sebuah video .mp4
 
-</br></br>
+</br>
 untuk fitur kedua : membuat sebuah game snake
 fitur ini memungkinkan terminal untuk menghasilkan output seperti pada game snake, disana akan ada ular dan ada makanannya, bila makanan di dapat maka tubuhnya bertambah dan akan menambah score juga
